@@ -134,5 +134,18 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-troncoso/opticaptroncoso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo-troncoso/opticaptroncoso/issues"
+  },
+  "homepage": "https://github.com/pablo-troncoso/opticaptroncoso#readme"
 }
