@@ -3,7 +3,7 @@ export default function NavBar() {
       <nav className="nav-main">
           <ul>
               <li> Categoría A</li>
-              <li> Categoría A</li>
+              <li> Categoría B</li>
             </ul>
         </nav>
     );
